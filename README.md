@@ -1,10 +1,7 @@
 # Unifi Research
 Notes, datasets, API connections
 
-API Key for Owlracle: 
-fa97d32b737047a6a3c53e545db5c04b
 
-For getting ETH block data from past 2 years start at block: 11565019 on Jan 1 2021 12:00 am
 
 For downloading CSVs from Etherscan.io (or any URL):
   1) Go to https://etherscan.io/charts
@@ -21,5 +18,10 @@ Avalanche: https://snowtrace.io/charts
 
 TRON: https://tronscan.org/#/data/stats2/transaction (manually download csv files)
 
+APIs:
+
+Owlracle for gas history
+- https://owlracle.info/docs
+- API key: fa97d32b737047a6a3c53e545db5c04b
 
 
