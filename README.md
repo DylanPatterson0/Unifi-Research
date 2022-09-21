@@ -16,7 +16,9 @@ The CSV's will contain daily data from 2015 until the day before the download.
 Downloadable data from different blockchains:
 
 Ethereum: https://etherscan.io/charts
+
 Avalanche: https://snowtrace.io/charts
+
 TRON: https://tronscan.org/#/data/stats2/transaction (manually download csv files)
 
 
