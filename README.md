@@ -1,7 +1,9 @@
 # Unifi Research
 Notes, datasets, API connections
 
-
+TODO:
+1) Drop all UnixTimestamp columns from Ethereum_Data files
+2) Rename all columns labeled 'Value' to something more appropriate
 
 For downloading CSVs from Etherscan.io (or any URL):
   1) Go to https://etherscan.io/charts
