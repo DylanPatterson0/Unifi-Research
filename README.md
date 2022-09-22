@@ -24,7 +24,7 @@ BSC: https://bscscan.com/charts
 
 Helium:
 
-Solana:
+Solana: https://analytics.solscan.io/public/dashboard/06d689e1-dcd7-4175-a16a-efc074ad5ce2
 
 Cardano:
 
