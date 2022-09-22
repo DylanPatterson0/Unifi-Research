@@ -32,7 +32,7 @@ Icon:
 
 Harmony:
 
-Fantom:
+Fantom: https://ftmscan.com/chart/transactionfee
 
 IoTeX:
 
