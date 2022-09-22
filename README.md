@@ -1,14 +1,8 @@
 # Unifi Research
 Notes, datasets, API connections
 
-TODO:
-1) Drop all UnixTimestamp columns from Ethereum_Data files
-2) Rename all columns labeled 'Value' to something more appropriate
-
-For downloading CSVs from Etherscan.io (or any URL):
-  1) Go to https://etherscan.io/charts
-  2) Find a specific chart who's data you want to export
-  3) add: ?output=csv to the end of the url as such https://etherscan.io/charts?output=csv and the csv will automatically download
+For calculating total gas fees per month of Avax:
+  1) Downloaded daily Avax burned from https://snowtrace.io/chart/dailyburnt and added values by month and multiplied by average Avax price per day from  https://snowtrace.io/chart/price
 
 Downloadable data from different blockchains:
 
